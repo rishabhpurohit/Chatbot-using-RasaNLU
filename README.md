@@ -22,7 +22,7 @@ rasa init
 
 
 ## Github Official Rasa open source repo
-![Github Official RASA repo](https://github.com/rasahq/rasa)
+![LINK](https://github.com/rasahq/rasa)
 
 💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants 
 
