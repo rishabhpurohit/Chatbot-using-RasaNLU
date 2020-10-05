@@ -21,7 +21,7 @@ You are now ready to go! So what's next? You can create a new project by running
 rasa init
 
 
-## Github Official RASA repo
+## Github Official Rasa open source repo
 ![Github Official RASA repo](https://github.com/rasahq/rasa)
 
 💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants 
